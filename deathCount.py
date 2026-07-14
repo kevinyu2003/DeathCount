@@ -1,4 +1,4 @@
-iKkkmport keyboard
+import keyboard
 import os
 def increment_death_count(filename):
   """Increments the death count in a specified text file.
